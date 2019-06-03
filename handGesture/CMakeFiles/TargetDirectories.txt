@@ -1,0 +1,3 @@
+/Users/fkair/opencv/handGesture/CMakeFiles/edit_cache.dir
+/Users/fkair/opencv/handGesture/CMakeFiles/rebuild_cache.dir
+/Users/fkair/opencv/handGesture/CMakeFiles/handGesture.dir

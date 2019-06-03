@@ -1,0 +1,3 @@
+/Users/fkair/opencv/findContours/CMakeFiles/edit_cache.dir
+/Users/fkair/opencv/findContours/CMakeFiles/rebuild_cache.dir
+/Users/fkair/opencv/findContours/CMakeFiles/findContours.dir

@@ -1,0 +1,3 @@
+/Users/fkair/opencv2/SURFNaked/CMakeFiles/edit_cache.dir
+/Users/fkair/opencv2/SURFNaked/CMakeFiles/rebuild_cache.dir
+/Users/fkair/opencv2/SURFNaked/CMakeFiles/SURFNaked.dir

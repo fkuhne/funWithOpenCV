@@ -1,0 +1,14 @@
+Exemplo do OpenCV: http://docs.opencv.org/2.4/doc/tutorials/introduction/linux_gcc_cmake/linux_gcc_cmake.html
+
+Soh que ao inves de usar o cmake (q eh legal por criar um Makefile automagicamente e ser multiplataforma, mas gera muitos arquivos paralelos), eu vou usar um Makefile proprio...
+
+Pra usar o cmake, crie um arquivo chamado CMakeLists.txt com:
+
+cmake_minimum_required(VERSION 2.8)
+project( DisplayImage )
+find_package( OpenCV REQUIRED )
+add_executable( DisplayImage DisplayImage.cpp )
+target_link_libraries( DisplayImage ${OpenCV_LIBS} )
+
+e rode cmake . ; make
+

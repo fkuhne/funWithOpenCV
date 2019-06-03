@@ -1,0 +1,3 @@
+/Users/fkair/opencv/facedetect/CMakeFiles/edit_cache.dir
+/Users/fkair/opencv/facedetect/CMakeFiles/rebuild_cache.dir
+/Users/fkair/opencv/facedetect/CMakeFiles/faceDetect.dir
